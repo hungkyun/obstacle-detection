@@ -129,7 +129,7 @@ int main(int argc, char **argv)
 	Lidar_node node;
 	viewer->setBackgroundColor(0, 0, 0);
 	viewer->addCoordinateSystem(1.0);
-	cout<<"standby1111!"<<endl;
+	cout<<"standby!"<<endl;
 	ros::spin();
   return 0;
 }
